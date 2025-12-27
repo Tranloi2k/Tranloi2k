@@ -32,10 +32,6 @@
 
 <br/>
 
-<!-- <h3 align="left">My GitHub Stats:</h3> -->
-<p align="center">
-  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tranloi2k&show_icons=true&locale=en&theme=tokyonight" alt="tranloi2k" /> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tranloi2k&layout=compact&locale=en&theme=tokyonight" alt="tranloi2k" />
-</p>
+
 
 <!-- End copying here -->
