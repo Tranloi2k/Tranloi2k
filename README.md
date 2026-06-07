@@ -7,7 +7,7 @@
 <h1 align="center">Hi there, I'm Lợi 👋</h1>
 <h3 align="center">A passionate Web Developer from Vietnam 🇻🇳</h3>
 
-- 🌱 I’m currently learning and building projects with **React.js** and **NextJS**.
+- 🌱 I’m currently building projects with **React.js** and **NextJS**.
 - 👨‍💻 All of my projects are available at [https://github.com/Tranloi2k](https://github.com/Tranloi2k)
 - 📫 How to reach me: **tranloi162710@gmail.com**
 <!-- - ⚡ Fun fact: I love turning ideas into reality with code. -->
