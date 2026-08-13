@@ -7,9 +7,10 @@
 <h1 align="center">Hi there, I'm Lợi 👋</h1>
 <h3 align="center">A passionate Web Developer from Vietnam 🇻🇳</h3>
 
-- 🌱 I’m currently building projects with **React.js** and **NextJS**.
-- 👨‍💻 All of my projects are available at [https://github.com/Tranloi2k](https://github.com/Tranloi2k)
-- 📫 How to reach me: **tranloi162710@gmail.com**
+- I’m currently building projects with **React.js** and **NextJS**.
+- My portfolio: [https://loi-tran-portfolio.xyz](https://loi-tran-portfolio.xyz/)
+- All of my projects are available at [https://github.com/Tranloi2k](https://github.com/Tranloi2k)
+- How to reach me: **tranloi162710@gmail.com**
 <!-- - ⚡ Fun fact: I love turning ideas into reality with code. -->
 
 <!-- <h3 align="left">Connect with me:</h3>
